@@ -20,4 +20,14 @@ This repository has 3 files: breast-cancer.csv, EDA.ipynb and code.ipynb.
 
 The breast-cancer.csv is the dataset file downloaded from Kaggle: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 The EDA.ipynb is an EDA report with codes. It shows overview of the dataset such as statistical summary, distribution and correlationship and so on.
-The code.ipynb is the coding file to create machine learning models, make predictions and evaluate models' performances.
+The code.ipynb is the coding file to clean data, create machine learning models, make predictions and evaluate models' performances.
+
+
+
+
+
+
+reference:
+Classification and Diagnostic Prediction of Breast Cancers via Different Classifiers by Ahmet Saygılı, aNamık Kemal University, Çorlu Engineering Faculty, Department of Computer Engineering, Tekirdağ, Turkey 
+https://dergipark.org.tr/en/download/article-file/615107
+
