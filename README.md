@@ -34,7 +34,7 @@ The predictions are a list of predicted values with the same size as the test da
 7. Evaluate models
 Accuracy and cross validation score were used to evaluate models in this study.
 
-8.Repeat the process
+8. Repeat the process
 Repeat the process from split dataset to models evaluation to see if the result will be stable or not. In this study, it was repeated 5 times.
 
 
